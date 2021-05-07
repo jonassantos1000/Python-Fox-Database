@@ -1,0 +1,2 @@
+gbak:opened file C:\sys\millenium_202012280030.gbk 
+gbak:transportable backup -- data in XDR format 

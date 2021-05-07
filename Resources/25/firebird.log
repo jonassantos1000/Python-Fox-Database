@@ -1,0 +1,207 @@
+
+ARLINDO-PC	Fri Dec 07 08:49:29 2018
+	INET/inet_error: read errno = 10054, client address = 127.0.0.1/62152, user = ARLIN.-1.-1
+
+
+ARLINDO-PC	Fri Dec 21 13:48:48 2018
+	INET/inet_error: read errno = 10054, client address = 127.0.0.1/51200, user = ARLIN.-1.-1
+
+
+ARLINDO-PC	Fri Dec 21 20:26:15 2018
+	INET/inet_error: read errno = 10054, client address = 127.0.0.1/53157, user = ARLIN.-1.-1
+
+
+ARLINDO-PC	Wed Jan 16 09:36:53 2019
+	INET/inet_error: read errno = 10054, client address = 127.0.0.1/58461, user = ARLIN.-1.-1
+
+
+ARLINDO-PC	Wed Jan 16 17:26:29 2019
+	INET/inet_error: read errno = 10054, client address = 127.0.0.1/53724, user = ARLIN.-1.-1
+
+
+ARLINDO-PC	Thu Jan 17 06:35:40 2019
+	INET/inet_error: read errno = 10054, client address = 127.0.0.1/62003, user = ARLIN.-1.-1
+
+
+ARLINDO-PC	Fri Feb 01 08:41:25 2019
+	Database: K:\BASES\MUSC\MILLENIUM
+	internal Firebird consistency check (missing pointer page in DPM_data_pages (243), file: dpm.cpp line: 703)
+
+
+ARLINDO-PC	Fri Feb 01 08:41:25 2019
+	Database: K:\BASES\MUSC\MILLENIUM
+	internal Firebird consistency check (missing pointer page in DPM_data_pages (243), file: dpm.cpp line: 703)
+
+
+ARLINDO-PC	Fri Feb 01 08:41:25 2019
+	Database: K:\BASES\MUSC\MILLENIUM
+	internal Firebird consistency check (missing pointer page in DPM_data_pages (243), file: dpm.cpp line: 703)
+
+
+ARLINDO-PC	Fri Feb 01 08:41:25 2019
+	I/O error during "ReadFile" operation for file "K:\BASES\MUSC\MILLENIUM"
+	Error while trying to read from file
+	Identificador inválido. 
+
+
+ARLINDO-PC	Fri Feb 01 08:41:25 2019
+	Database: K:\BASES\MUSC\MILLENIUM
+	I/O error during "ReadFile" operation for file "K:\BASES\MUSC\MILLENIUM"
+	Error while trying to read from file
+	Identificador inválido. 
+
+
+ARLINDO-PC	Fri Feb 01 08:53:06 2019
+	Sweep is started by SWEEPER
+	Database "K:\BASES\MUSC\MILLENIUM" 
+	OIT 172745454, OAT 187057254, OST 187057254, Next 187057255
+
+
+ARLINDO-PC	Fri Feb 01 09:29:51 2019
+	XNET error: XNET server initialization failed. Probably another instance of server is already running.
+	operating system directive CreateMutex failed
+	Não é possível criar um arquivo já existente. 
+
+
+ARLINDO-PC	Fri Feb 01 09:32:32 2019
+	Sweep is started by SWEEPER
+	Database "K:\BASES\MUSC\MILLENIUM" 
+	OIT 172745454, OAT 187057258, OST 187057258, Next 187057258
+
+
+ARLINDO-PC	Fri Feb 01 09:54:29 2019
+	Sweep is finished
+	Database "K:\BASES\MUSC\MILLENIUM" 
+	OIT 187057257, OAT 187057281, OST 187057281, Next 187057282
+
+
+ARLINDO-PC	Fri Feb 01 12:16:50 2019
+	INET/inet_error: read errno = 10054, client address = 127.0.0.1/55256, user = ARLIN.-1.-1
+
+
+ARLINDO-PC	Fri Feb 01 12:16:50 2019
+	INET/inet_error: read errno = 10054, client address = 127.0.0.1/55296, user = ARLIN.-1.-1
+
+
+ARLINDO-PC	Fri Feb 01 12:16:50 2019
+	Unable to complete network request to host "ARLINDO-PC".
+	Error reading data from the connection.
+
+
+ARLINDO-PC	Fri Feb 01 12:16:50 2019
+	Unable to complete network request to host "ARLINDO-PC".
+	Error writing data to the connection.
+
+
+ARLINDO-PC	Fri Feb 01 17:07:30 2019
+	INET/inet_error: read errno = 10054, client address = 127.0.0.1/57541, user = ARLIN.-1.-1
+
+
+ARLINDO-PC	Fri Feb 01 17:07:30 2019
+	Unable to complete network request to host "ARLINDO-PC".
+	Error reading data from the connection.
+
+
+ARLINDO-PC	Fri Mar 01 11:24:47 2019
+	WNET/wnet_error: ReadFile end-of-file errno = 109
+
+
+ARLINDO-PC	Wed Mar 27 16:18:11 2019
+	SERVER/process_packet: broken port, server exiting
+
+
+ARLINDO-PC	Tue Apr 02 09:06:30 2019
+	SERVER/process_packet: broken port, server exiting
+
+
+ARLINDO-PC	Thu Apr 04 08:16:30 2019
+	SERVER/process_packet: broken port, server exiting
+
+
+ARLINDO-PC	Thu Apr 04 13:47:57 2019
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+	Reason: process/library unloaded
+
+
+DESKTOP-4K383N7	Thu Apr 18 14:17:54 2019
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+	Reason: process/library unloaded
+
+
+DESKTOP-4K383N7	Thu Apr 18 14:17:54 2019
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+	Reason: process/library unloaded
+
+
+DESKTOP-4K383N7	Thu Apr 18 16:33:06 2019
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+	Reason: process/library unloaded
+
+
+DESKTOP-4K383N7	Thu Apr 18 16:33:30 2019
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+	Reason: process/library unloaded
+
+
+DESKTOP-4K383N7	Thu Apr 18 16:33:30 2019
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+	Reason: process/library unloaded
+
+
+HD-010	Mon May 20 11:03:17 2019
+	Database: E:\SYS\BASES\5\N SEI O CLINTE\MILLENIUM.NOVA
+	internal Firebird consistency check (pointer page lost from DPM_delete_relation (246), file: dpm.cpp line: 1020)
+
+
+HD-010	Mon May 20 11:03:18 2019
+	Database: E:\SYS\BASES\5\N SEI O CLINTE\MILLENIUM.NOVA
+	internal Firebird consistency check (pointer page lost from DPM_delete_relation (246), file: dpm.cpp line: 1020)
+
+
+HD-010	Mon May 20 11:03:18 2019
+	Database: E:\SYS\BASES\5\N SEI O CLINTE\MILLENIUM.NOVA
+	internal Firebird consistency check (pointer page lost from DPM_delete_relation (246), file: dpm.cpp line: 1020)
+
+
+HD-010	Mon May 20 11:03:18 2019
+	I/O error during "ReadFile" operation for file "E:\SYS\BASES\5\N SEI O CLINTE\MILLENIUM.NOVA"
+	Error while trying to read from file
+	Identificador inválido. 
+
+
+HD-010	Mon May 20 11:03:18 2019
+	Database: E:\SYS\BASES\5\N SEI O CLINTE\MILLENIUM.NOVA
+	I/O error during "ReadFile" operation for file "E:\SYS\BASES\5\N SEI O CLINTE\MILLENIUM.NOVA"
+	Error while trying to read from file
+	Identificador inválido. 
+
+
+MTZDSKFS031017	Fri Mar 05 16:56:02 2021
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+	Reason: process/library unloaded
+
+
+MTZDSKFS031017	Fri Mar 05 16:56:02 2021
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+	Reason: process/library unloaded
+
+
+DESKTOP-JFU5MB6	Tue Mar 23 23:13:41 2021
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+	Reason: process/library unloaded
+
+
+DESKTOP-JFU5MB6	Wed Mar 24 20:56:56 2021
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+	Reason: process/library unloaded
+
+
+DESKTOP-JFU5MB6	Thu Mar 25 20:31:48 2021
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+	Reason: process/library unloaded
+
+
+DESKTOP-JFU5MB6	Thu Mar 25 20:31:48 2021
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+	Reason: process/library unloaded
+
